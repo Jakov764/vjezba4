@@ -1,0 +1,7 @@
+C:\Users\Učenik 8\source\repos\vjezba4\vjezba4\bin\Debug\vjezba4.exe.config
+C:\Users\Učenik 8\source\repos\vjezba4\vjezba4\bin\Debug\vjezba4.exe
+C:\Users\Učenik 8\source\repos\vjezba4\vjezba4\bin\Debug\vjezba4.pdb
+C:\Users\Učenik 8\source\repos\vjezba4\vjezba4\obj\Debug\vjezba4.csprojAssemblyReference.cache
+C:\Users\Učenik 8\source\repos\vjezba4\vjezba4\obj\Debug\vjezba4.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 8\source\repos\vjezba4\vjezba4\obj\Debug\vjezba4.exe
+C:\Users\Učenik 8\source\repos\vjezba4\vjezba4\obj\Debug\vjezba4.pdb
